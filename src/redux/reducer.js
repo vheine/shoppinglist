@@ -225,7 +225,6 @@ const reducer = (state = initState, action) => {
                     ...state
                 }
             }
-            break;
            
 
         case 'REMOVE_FROM_FAV':
